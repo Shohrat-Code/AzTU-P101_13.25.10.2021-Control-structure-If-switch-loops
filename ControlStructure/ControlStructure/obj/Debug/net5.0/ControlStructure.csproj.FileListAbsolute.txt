@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\bin\Debug\net5.0\ControlStructure.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\bin\Debug\net5.0\ControlStructure.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\bin\Debug\net5.0\ControlStructure.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\bin\Debug\net5.0\ControlStructure.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\bin\Debug\net5.0\ControlStructure.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\bin\Debug\net5.0\ref\ControlStructure.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\bin\Debug\net5.0\ControlStructure.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\obj\Debug\net5.0\ControlStructure.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\obj\Debug\net5.0\ControlStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\obj\Debug\net5.0\ControlStructure.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\obj\Debug\net5.0\ControlStructure.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\obj\Debug\net5.0\ControlStructure.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\obj\Debug\net5.0\ControlStructure.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\obj\Debug\net5.0\ref\ControlStructure.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\obj\Debug\net5.0\ControlStructure.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\13.25.10.2021-Control structure\Codes\ControlStructure\ControlStructure\obj\Debug\net5.0\ControlStructure.genruntimeconfig.cache
